@@ -2,7 +2,7 @@
 
 🔥 [Subscribe](https://quantprep.substack.com/) to our newsletter: get the newest job postings and learn how to ace your interviews 🔥
 
-🎓 Head over to the Internship List [here](https://github.com/quantprep/quantinternships2022) 🎓
+🎓 Head over to our Internship List [here](https://github.com/quantprep/quantinternships2022) 🎓
 
 🙏 Feel free to submit a new job posting or suggst a change by submitting a pull request 🙏
 
