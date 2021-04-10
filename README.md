@@ -1,6 +1,6 @@
 # New Grad 2022 Quant Jobs 💹 🐱‍💻
 
-🔥 [Subscribe](https://quantprep.substack.com/) to our newsletter: get the newest job postings and learn how to ace your interviews 🔥
+🔥 [Subscribe](https://quantprep.substack.com/) to our free newsletter: get the newest job postings and learn how to ace your interviews 🔥
 
 🎓 Head over to our Internship List [here](https://github.com/quantprep/quantinternships2022) 🎓
 
