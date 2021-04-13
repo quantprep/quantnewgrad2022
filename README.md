@@ -30,7 +30,10 @@ Top New Grad companies (subjectively ranked based on perception, culture, progra
 
 4️⃣ Two Sigma - IMC - Optiver. 
 
-5️⃣ Akuna - DRW - SIG - Flow Traders - Tower. 
+5️⃣ Akuna - DRW - SIG - Flow Traders - Tower - Virtu. 
+
+⚠️ Disclaimer: this is just a very rough ranking based on highly subjective opinions. Ideally we'd have separate rankings for SWE, QR, QT and separate rankings for culture, pay etc but this should do for now. ⚠️
+
 
 ------
 
@@ -38,7 +41,7 @@ Top New Grad companies (subjectively ranked based on perception, culture, progra
 
 | Company             | Location                |                             SWE                              |                              QR                              |                              QT                              | Status                                                       | Notes                                                        |
 | ------------------- | ----------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Akuna               | Boston, Chicago         |                              ✔️                               |                              ✔️                               |                              ✔️                               |                                                              | Founded by ex-optiver traders. Meritocratic culture where people are promoted quickly. On the flip-side, stress levels and pressure tend to be on the higher side. |
+| Akuna               | Boston, Chicago         |                              ✔️                               |                              ✔️                               |                              ✔️                               |                                                              | Founded by ex-optiver traders. Meritocratic culture where people are promoted quickly. On the flip-side, stress levels and pressure tend to be on the higher side. Also try to have competing offers otherwise they might low-ball you. |
 | Allston Trading     | Chicago                 |                              ✔️                               |                                                              |                                                              |                                                              |                                                              |
 | Ansatz Capital      | NYC                     |                              ✔️                               |                              ✔️                               |                                                              |                                                              | Similarly to Aquatic, Headlands and Radix, a small but prestigious firm that is willing to pay more than most competitors. Fairly young firm. Uses Python and C++ for QR. |
 | Aquatic             | Chicago                 | [✅](https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/5139235002) |                                                              | [✅](https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/4714618002) | 📭 Applications are open year-round. | Aquatic also has a Research Engineer position [here](https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/4725554002). |
