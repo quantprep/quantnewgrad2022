@@ -4,7 +4,7 @@
 
 🎓 Head over to our Internship List [here](https://github.com/quantprep/quantinternships2022) 🎓
 
-🙏 Feel free to submit a new job posting or suggst a change by submitting a pull request 🙏
+🙏 Feel free to submit a new job posting or suggest a change by submitting a pull request 🙏
 
 ------
 
